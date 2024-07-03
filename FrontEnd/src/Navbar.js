@@ -20,7 +20,7 @@ export default function Navgationbar(props){
         <>
             <Navbar collapseOnSelect expand="lg" bg="primary" data-bs-theme="dark">
                 <Container>
-                    <Navbar.Brand primary="primary"><Link to="/" >Task Management</Link></Navbar.Brand>
+                    <Navbar.Brand primary="primary"><Link to="/" >ToDoTitan</Link></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto fs-5">
